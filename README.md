@@ -39,7 +39,7 @@ Programming Language
  <br>
    DB & wep server
  <div>
-  <img src="https://img.shields.io/badge/Microsoft MariaDB-003545?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=XAMPP&logoColor=white"/>
  </div>
  <br>
