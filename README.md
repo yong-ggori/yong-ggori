@@ -19,7 +19,7 @@ Programming Language
 <div>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> 
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
- # <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> 
  </div>
 <br>
@@ -39,7 +39,7 @@ Programming Language
  <br>
    DB & wep server
  <div>
-  <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft MariaDB-003545?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/>
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=XAMPP&logoColor=white"/>
  </div>
  <br>
