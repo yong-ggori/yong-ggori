@@ -30,6 +30,11 @@ Programming Language
    <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/> 
  </div>
  <br>
+ Library
+ <div>
+   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/> 
+ </div>
+ <br>
    MCU & MPU
  <div>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/> 
