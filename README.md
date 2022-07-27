@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-6월 28일 ~ 7월 4일, 부트로더 및 리눅스 커널 공부
+6월 28일 ~ 7월 4일, 부트로더 및 리눅스 커널 공부  
 => 부트로더이용해서 LED 제어, 커널에서 LED 
 <br><br>
 
